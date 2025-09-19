@@ -4,10 +4,13 @@
 
 ---
 
+## Интерфейс
+- Мобильный и десктопные размеры поддерживаются.
+
 # Предварительный просмотр
-- Вкладка в браузере
+- Вид с десктопа
 ---
-![index.html](previews/site.png)
-- Строки на серверной части
+![desktop](previews/desktop.png)
+- Вид с телефона
 ---
-![server.ts](previews/server.png)
+![mobile](previews/mobile.png)
